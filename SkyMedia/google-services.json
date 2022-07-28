@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984331439316",
+    "project_id": "skymedia-357701",
+    "storage_bucket": "skymedia-357701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984331439316:android:8bd4f968c8d791478a3f41",
+        "android_client_info": {
+          "package_name": "SkyMedia.stay.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984331439316-v7b3ijljlr5crs8e21ajnrcnjcdj7n9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcE7S2cBNqamJyN1vXV0tH5g7vAI47GgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984331439316-v7b3ijljlr5crs8e21ajnrcnjcdj7n9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
